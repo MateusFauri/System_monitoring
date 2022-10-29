@@ -14,11 +14,17 @@
   <li> OPITIONAL: </li>
   <ul>
     <li> Create a venv </li>
-    ````
+    ```Python
      python3 -m venv system_monitoring
     ````
-    <li> In Windows: ``` system_monitoring\Scripts\activate.bat ``` </li>
-    <li> In Unix or MacOS: ```source system_monitoring/bin/activate ```</li>
+    <li> In Windows:</li>
+    ```Python
+    system_monitoring\Scripts\activate.bat 
+    ```
+    <li> In Unix or MacOS:</li>
+    ```Python
+    source system_monitoring/bin/activate
+    ```
   </ul>
   <li>Instal PrettyTable running: ```python -m pip install -U prettytable ``` </li>
   <li>Instal Psutil running: ```pip install psutil``` </li>
