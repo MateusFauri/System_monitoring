@@ -13,9 +13,10 @@
   <li> Clone the project </li>
   <li> OPITIONAL: </li>
   <ul>
-    <li> Create a venv ```
-      python3 -m venv system_monitoring
-      ``` </li>
+    <li> Create a venv </li>
+    ```
+     python3 -m venv system_monitoring
+    ``` 
     <li> In Windows: ``` system_monitoring\Scripts\activate.bat ``` </li>
     <li> In Unix or MacOS: ```source system_monitoring/bin/activate ```</li>
   </ul>
