@@ -20,9 +20,9 @@
     <li> In Unix or MacOS:</li>
     source system_monitoring/bin/activate
   </ul>
-  <li>Instal PrettyTable running:</li>
+  <li>Install PrettyTable running:</li>
     python -m pip install -U prettytable 
-  <li>Instal Psutil running: </li>
+  <li>Install Psutil running: </li>
    pip install psutil
   <li>Run the program: </li>
    python3 main.py
